@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.0
+Summary: A learning pupose to create package for movies reccommendation
+Author: BISHWAJYOTI CHAUDHARY
+Author-email: bishwajyotichaudhary46@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+## Movies Recommendation Project
